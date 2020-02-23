@@ -2,8 +2,11 @@
 Module 6: Lab Activity - An Introduction to Python Modules
 
 Author: David Gibbs
+
 Contact Info: dgibbs4@my.nl.edu
+
 Date: February 23, 2020
+
 Here is a description of each Python program, its respective file name, and its intended purpose.
 
 1.	Randomrange.py – This program uses the random module, specifically “random.randrange” to generate ten integers between the values of 25 and 25.
