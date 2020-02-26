@@ -15,6 +15,9 @@ factorial = 1
 
 for i in range(number):
 	factorial = factorial * (i+1)
+#Your approach is fine. You can also do it this way.
+#for i in range(1, number + 1):
+    factorial = factorial * i
 #iterative takes factorial and mulitplies the value of i and increments by 1
 print("The factorial of the number you gave me,",number,"is",factorial)
 #Displays the factorial of the number entered to the screen
